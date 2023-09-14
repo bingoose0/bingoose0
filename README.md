@@ -1,6 +1,6 @@
 # Hi! I'm Bingu, bingoose, or Adam.
-### I'm a co-founder of Segmential (https://github.com/Segmential)
-If you ever need to reach out to me, you can contact @Bingu#0001 (468534859611111436) on Discord.
+### I'm a co-founder of bitfield.dev (https://github.com/bitfielddev)
+If you ever need to reach out to me, you can contact @bingoose0 (468534859611111436) on Discord.
 
 
 
